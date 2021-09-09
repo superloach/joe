@@ -1,2 +1,2 @@
 # joe
-Java SE 16 class encoder/decoder in Go
+Java SE 8 class encoder/decoder in Go
